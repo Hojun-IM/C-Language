@@ -1,2 +1,2 @@
 # C-Language
-CodeUp Practices with C
+Baekjoon Practices with C
